@@ -13,3 +13,16 @@
   text-align: center;
   margin: 12px;
 }
+
+.content {
+  display: flex;
+}
+
+.text {
+  width: 500px;
+  border: 3px solid rgb(211, 97, 154);
+}
+
+.content__text {
+  margin: auto;
+}
